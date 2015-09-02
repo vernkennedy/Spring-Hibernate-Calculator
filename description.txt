@@ -1,6 +1,6 @@
 Spring Hibernate Calculator
 
-This system allows users to ...............
+A calculator application which allows a user to perform calculations and also save each and every operation performed together with its resut in the Oracle database
 
 
 
